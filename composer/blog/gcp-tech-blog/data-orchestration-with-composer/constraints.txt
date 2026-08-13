@@ -205,7 +205,7 @@ bcrypt==4.0.1
 beautifulsoup4==4.12.2
 billiard==4.1.0
 bitarray==2.7.6
-black==23.1a1
+black==26.5.1
 bleach==6.0.0
 blinker==1.6.2
 boto3==1.26.161
@@ -241,7 +241,7 @@ coverage==7.2.7
 crcmod==1.7
 cron-descriptor==1.4.0
 croniter==1.4.1
-cryptography==40.0.2
+cryptography==50.0.0
 curlify==2.2.1
 dask==2023.4.1
 databricks-sql-connector==2.7.0
@@ -348,7 +348,7 @@ h11==0.14.0
 hdfs==2.7.0
 hmsclient==0.1.1
 httpcore==0.16.3
-httplib2==0.22.0
+httplib2==0.32.0
 httpx==0.23.3
 humanize==4.7.0
 hvac==1.1.1
@@ -494,7 +494,7 @@ py4j==0.10.9.7
 pyOpenSSL==23.2.0
 pyarrow==11.0.0
 pyasn1-modules==0.2.8
-pyasn1==0.4.8
+pyasn1==0.6.4
 pycountry==22.3.5
 pycparser==2.21
 pycryptodome==3.18.0
