@@ -135,7 +135,7 @@ apache-airflow-providers-fab==1.1.1
 apache-airflow-providers-facebook==3.5.1
 apache-airflow-providers-ftp==3.9.1
 apache-airflow-providers-github==2.6.1
-apache-airflow-providers-google==10.19.0
+apache-airflow-providers-google==22.2.1
 apache-airflow-providers-grpc==3.5.1
 apache-airflow-providers-hashicorp==3.7.1
 apache-airflow-providers-http==4.11.1
@@ -661,7 +661,7 @@ sqlalchemy-bigquery==1.11.0
 sqlalchemy-redshift==0.8.14
 sqlalchemy-spanner==1.7.0
 sqlalchemy_drill==1.1.4
-sqlparse==0.5.0
+sqlparse==0.6.0
 sshtunnel==0.4.0
 stack-data==0.6.3
 starkbank-ecdsa==2.2.0
